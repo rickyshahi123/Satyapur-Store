@@ -1,2 +1,2 @@
 # Satyapur-Store
-A simple 5 min website that i built
+A simple website that i built
